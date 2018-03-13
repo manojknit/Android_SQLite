@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">New Product Database</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_insert">InsertActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+
+    <string name="insert_lbl_itemname">Item Name:</string>
+    <string name="insert_lbl_itemdesc">Item Description:</string>
+    <string name="insert_lbl_itemprice">Item Price:</string>
+    <string name="insert_lbl_itemreview">Item Review:</string>
+    <string name="insert_btn_add">Add</string>
+    <string name="insert_btn_cancel">Cancel</string>
+
+</resources>
